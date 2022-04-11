@@ -46,7 +46,7 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/ismaeldi/spring5webapp.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:ismaeldi/openclassroom.git</developerConnection>
       <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 
